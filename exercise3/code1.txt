@@ -1,0 +1,18 @@
+ <html>
+ <head>
+ <title>
+      Hyperlink
+ </title>
+ </head>
+ <body>
+ <h1>
+      Hello World
+ </h1>
+ <p>
+      <a href="home.html" target="_self">About</a>
+ <br>
+     <a href="https://pen-pusher.github.io/."
+       target="_blank">My Resume</a>
+  </p>
+  </body>
+  </html>
